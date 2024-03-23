@@ -1,0 +1,5 @@
+# Created at 2024-03-22T20:49:00.136
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Digital Bootcamp 79\booking-bengkel-main\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

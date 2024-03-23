@@ -1,0 +1,16 @@
+com\bengkel\booking\services\BengkelService.class
+com\bengkel\booking\models\Customer.class
+com\bengkel\booking\services\PrintService.class
+com\bengkel\booking\models\MemberCustomer.class
+com\bengkel\booking\services\MenuService.class
+com\bengkel\booking\repositories\CustomerRepository.class
+com\bengkel\booking\App.class
+com\bengkel\booking\interfaces\IBengkelPayment.class
+com\bengkel\booking\models\BookingOrder.class
+com\bengkel\booking\interfaces\IPayment.class
+com\bengkel\booking\repositories\ItemServiceRepository.class
+com\bengkel\booking\models\Vehicle.class
+com\bengkel\booking\models\Car.class
+com\bengkel\booking\models\Motorcyle.class
+com\bengkel\booking\services\Validation.class
+com\bengkel\booking\models\ItemService.class
